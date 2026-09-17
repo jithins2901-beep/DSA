@@ -6,8 +6,7 @@ This repository contains solutions to coding problems that I solve while improvi
 
 ## What's Inside
 
-* Data Structures
-* Algorithms
+* Data Structures and Algorithms
 * Problem-solving patterns
 * Multiple approaches where applicable
 * LeetCode and other coding practice solutions
