@@ -13,3 +13,4 @@ class Solution {
         return r;
     }
 }// tc -> O(logn) sc -> O(1)
+// here we used int so to avoid overflow we checked exceptional case.
