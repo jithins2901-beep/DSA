@@ -11,4 +11,4 @@ class Solution {
         }return maxarea;
 
     }
-}
+}//tc -> O(n^2) sc -> O(1)
